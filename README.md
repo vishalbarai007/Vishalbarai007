@@ -1,47 +1,58 @@
-<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Vishal</h1>
-<h3 align="center">A passionate full-stack & ML developer from India</h3>
 
-<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=600&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;React+%7C+Next.js+%7C+Three.js;Python+%7C+FastAPI+%7C+Node.js;Always+learning+new+things!+🚀" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=800&width=700&lines=Hey%2C+I'm+Vishal+Barai!;Full-Stack+Developer;System+Software+Developer;Electron+App+Builder;Browser+Extension+Developer;Generative+AI+Enthusiast;UI%2FUX+Lover+%26+Tech+Innovator" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
-- 🔭 I love building **web apps, ML projects, and interactive UI/UX**
-- 🌱 Currently learning **Three.js + Next.js**
-- 💬 Ask me about **React, Tailwind, TypeScript, FastAPI, Python**
-- ⚡ Fun fact: I break stuff until it works
+## 👨‍💻 About Me
+I’m a **Full-Stack Developer**, **System Software Developer**, and **AI Enthusiast** passionate about
+creating clean, fast, and user-focused digital experiences.
+
+I love working on:
+- 🖥️ **Electron Desktop Apps** (Dzap Desktop App)  
+- 🔧 **Browser Extensions** (Custom Wallpaper Extension)  
+- 🤖 **AI-powered Web Platforms**  
+- 🎨 **Modern UI/UX** with React, Next.js & Tailwind  
+- ☁️ **Cloud-backed apps** with Firebase, Vercel & Netlify  
+
 
 ---
 
-## 🛠️ Tech Stack
+
+# 🛠️ Tech Stack
 
 ### **Languages**
-<p>
+<h3>
   <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,java" />
-</p>
+</h3>
 
 ### **Frontend**
-<p>
+<h3>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
+</h3>
 
 ### **Backend**
-<p>
+<h3>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase,django" />
-</p>
+</h3>
 
-### **Tools & DevOps**
-<p>
+### **Desktop Apps / Extensions**
+<h3>
+  <img src="https://skillicons.dev/icons?i=electron,chrome" />
+</h3>
+
+### **Tools**
+<h3>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,postman" />
-</p>
+</h3>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=vishalbarai007&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -54,17 +65,39 @@
 
 ---
 
-## 🧩 Featured Projects
+## 🚀 Featured Live Projects
 
-Here are some of my recent works:
+### ⭐ **Forest Fire Predictor**
+- 🔗 GitHub: https://github.com/vishalbarai007/Forest-Fire-Predictor  
+- 🌐 Live: https://forest-fire-predictor-nine.vercel.app/
 
-🔹 **Adventurer Platform** — React + Firebase + Python  
-🔹 **Food Nutrition Analyzer** — React + ML backend  
-🔹 **CitySync** — AI-driven city governance platform  
-🔹 **2D → 3D Terrain Generator** — Next.js + Three.js + depth estimation  
-🔹 **Blood Bank System** — Python Tkinter + Django APIs
+### ⭐ **Weather Forecast**
+- 🔗 GitHub: https://github.com/vishalbarai007/Weather-Forecast  
+- 🌐 Live: https://weather-forecast-six-theta.vercel.app/
 
-(*Add GitHub repo links here!*)
+### ⭐ **Plan Fit**
+- 🔗 GitHub: https://github.com/vishalbarai007/Plan-Fit  
+- 🌐 Live: https://plan-fit.netlify.app
+
+### ⭐ **PhotoBooth**
+- 🔗 GitHub: https://github.com/vishalbarai007/PhotoBooth  
+- 🌐 Live: https://photo-booth-five-iota.vercel.app/
+
+### ⭐ **AI Script Enhancer**
+- 🔗 GitHub: https://github.com/vishalbarai007/AI-Script-Enhancer  
+- 🌐 Live: https://aiscripter-lake.vercel.app/
+
+---
+
+## 🧩 Important Non-Live Projects
+### 🖥️ **Dzap Desktop App** — Electron-based desktop organizer  
+🔗 GitHub: https://github.com/vishalbarai007/DZap-linux
+
+### 🎨 **Wallpaper Browser Extension** — Live wallpaper extension  
+🔗 GitHub: https://github.com/vishalbarai007/DYNAMIC-WALLPAPER
+
+### 🌍 **Adventurer Platform** — React + Firebase  
+🔗 GitHub: https://github.com/vishalbarai007/Adventurer
 
 ---
 
@@ -79,7 +112,6 @@ Here are some of my recent works:
 
 ### ⭐ If you like my profile, don't forget to star my repositories!
 
----
 
 If you want, I can also generate:
 ✅ Custom SVG banners  
@@ -89,3 +121,5 @@ If you want, I can also generate:
 ✅ GIF-based header  
 
 Just tell me!
+
+---
