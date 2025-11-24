@@ -55,7 +55,7 @@ I love working on:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vishalbarai007&show_icons=true&theme=tokyonight&hide_border=true" />
+ <img height="160" src="https://github-readme-stats-git-masterrk.vercel.app/api?username=vishalbarai007&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalbarai007&theme=tokyonight&hide_border=true" />
 </p>
 
