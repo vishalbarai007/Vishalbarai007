@@ -109,17 +109,3 @@ I love working on:
 </p>
 
 ---
-
-### ⭐ If you like my profile, don't forget to star my repositories!
-
-
-If you want, I can also generate:
-✅ Custom SVG banners  
-✅ Dark neon theme version  
-✅ Animated graphs  
-✅ Folder icons for your projects section  
-✅ GIF-based header  
-
-Just tell me!
-
----
