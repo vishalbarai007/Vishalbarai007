@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 I’m a **Full-Stack Developer**, **System Software Developer**, and **AI Enthusiast** passionate about
 creating clean, fast, and user-focused digital experiences.
 
