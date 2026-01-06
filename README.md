@@ -23,7 +23,7 @@ I love working on:
 ---
 
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 ### **Languages**
 <h3>
