@@ -13,11 +13,11 @@ I’m a **Full-Stack Developer**, **System Software Developer**, and **AI Enthus
 creating clean, fast, and user-focused digital experiences.
 
 I love working on:
-- 🖥️ **Electron Desktop Apps** (Dzap Desktop App)  
-- 🔧 **Browser Extensions** (Custom Wallpaper Extension)  
-- 🤖 **AI-powered Web Platforms**  
-- 🎨 **Modern UI/UX** with React, Next.js & Tailwind  
-- ☁️ **Cloud-backed apps** with Firebase, Vercel & Netlify  
+-  **Electron Desktop Apps** (Dzap Desktop App)  
+-  **Browser Extensions** (Custom Wallpaper Extension)  
+-  **AI-powered Web Platforms**  
+-  **Modern UI/UX** with React, Next.js & Tailwind  
+-  **Cloud-backed apps** with Firebase, Vercel & Netlify  
 
 
 ---
@@ -52,7 +52,7 @@ I love working on:
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
  <img height="160" src="https://github-readme-stats-git-masterrk.vercel.app/api?username=vishalbarai007&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" />
