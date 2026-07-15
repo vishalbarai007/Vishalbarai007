@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Vishal</h1>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=800&width=700&lines=Hey%2C+I'm+Vishal+Barai!;Full-Stack+Developer;System+Software+Developer;Electron+App+Builder;Browser+Extension+Developer;Generative+AI+Enthusiast;UI%2FUX+Lover+%26+Tech+Innovator" />
   </a>
-</p>
+</p> -->
 
 ---
 
