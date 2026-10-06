@@ -6,8 +6,6 @@
   </a>
 </p> -->
 
----
-
 ##  About Me
 I’m a **Full-Stack Developer**, **System Software Developer**, and **AI Enthusiast** passionate about
 creating clean, fast, and user-focused digital experiences.
@@ -18,9 +16,6 @@ I love working on:
 -  **AI-powered Web Platforms**  
 -  **Modern UI/UX** with React, Next.js & Tailwind  
 -  **Cloud-backed apps** with Firebase, Vercel & Netlify  
-
-
----
 
 
 # Tech Stack
